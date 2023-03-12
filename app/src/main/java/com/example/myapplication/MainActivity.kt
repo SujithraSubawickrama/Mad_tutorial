@@ -41,5 +41,8 @@ class MainActivity : AppCompatActivity() {
         val myForm = FormData(
             edtStudentId.text.toString(),
             spnYear.selectedItem.toString(),
+
+
+
             spnSemester.selectedItem.toString(),
     };
